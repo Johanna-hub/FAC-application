@@ -1,1 +1,1 @@
-# johanna-hub.github.io
+Repository for Founder and Coders Application
