@@ -1,1 +1,1 @@
-Repository for Founder and Coders Application
+Repository for Founders and Coders Application
